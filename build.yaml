@@ -14,9 +14,9 @@
 ---
 include:
   - board: mikoto
-    shield: tomahawk56_left nice_view_adapter nice_view
+    shield: tomahawk56_left
     snippet: studio-rpc-usb-uart
   - board: mikoto
-    shield: tomahawk56_right nice_view_adapter nice_view
+    shield: tomahawk56_right
   - board: mikoto
     shield: settings_reset
