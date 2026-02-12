@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/MityaLiu
+      url-base: https://github.com/Tomahawk-Keyboards
   projects:
     - name: zmk
       remote: zmkfirmware
